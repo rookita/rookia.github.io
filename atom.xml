@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>小新的博客</title>
   
-  
+  <subtitle>私の名前はシャオシンです、よろしくお願いします</subtitle>
   <link href="https://rookita.github.io/atom.xml" rel="self"/>
   
   <link href="https://rookita.github.io/"/>
-  <updated>2023-03-26T02:54:12.635Z</updated>
+  <updated>2023-03-26T04:41:43.937Z</updated>
   <id>https://rookita.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>rookia</name>
     
   </author>
   
@@ -18,30 +18,17 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://rookita.github.io/2023/03/26/hello-world-0/"/>
-    <id>https://rookita.github.io/2023/03/26/hello-world-0/</id>
-    <published>2023-03-26T02:54:12.000Z</published>
-    <updated>2023-03-26T02:54:12.635Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://rookita.github.io/2023/03/26/hello-world/"/>
-    <id>https://rookita.github.io/2023/03/26/hello-world/</id>
-    <published>2023-03-26T02:18:00.366Z</published>
-    <updated>2023-03-26T02:18:00.366Z</updated>
+    <link href="https://rookita.github.io/hello-world/"/>
+    <id>https://rookita.github.io/hello-world/</id>
+    <published>2023-03-26T04:41:10.000Z</published>
+    <updated>2023-03-26T04:41:43.937Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token shebang</summary>
         
       
     
